@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:373ce98d-e8f3-45fc-b530-1d6f2a8052e4'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-02-21T21:24:29.019Z'
+dateModified: '2016-02-21T21:24:27.422Z'
 author: []
-datePublished: '2016-02-21T21:13:06.375Z'
-publisher:
-  domain: ''
-  name: ''
 title: Exploring New York City
-dateModified: '2016-02-21T21:09:51.593Z'
 sourcePath: _posts/2016-02-21-exploring-new-york-city.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: exploring-new-york-city/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
