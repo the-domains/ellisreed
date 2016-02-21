@@ -1,0 +1,14 @@
+layout_spectrum: 0.3243728
+color:
+  saturation: 0.7706093
+  lightness: 0.7526882
+  brandStrength: 0.390681
+  brandColors:
+    - '#282E30'
+    - '#EFE1B4'
+    - '#C6A34B'
+    - '#6E5B42'
+    - '#F3EFE6'
+  rhythmicContrast: 0.2616487
+typography_spectrum: 0.4802867
+name: EllisReed
