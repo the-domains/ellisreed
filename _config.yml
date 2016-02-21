@@ -1,14 +1,26 @@
-layout_spectrum: 0.3243728
 color:
   saturation: 0.7706093
-  lightness: 0.7526882
   brandStrength: 0.390681
+  rhythmicContrast: 0.2616487
   brandColors:
     - '#282E30'
     - '#EFE1B4'
     - '#C6A34B'
     - '#6E5B42'
     - '#F3EFE6'
-  rhythmicContrast: 0.2616487
+  lightness: 0.7526882
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.3243728
 typography_spectrum: 0.4802867
 name: EllisReed
