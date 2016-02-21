@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ellis Reed]]></title>
+        <description><![CDATA[Ellis Reed]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Feb 2016 21:13:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Exploring New York City]]></title>
+            <description><![CDATA[<h1>Exploring New York City</h1>]]></description>
+            <link>undefinedexploring-new-york-city/index.html</link>
+            <guid isPermaLink="false">26a3ab25-a3e9-42f7-836a-2e9a0212fe53</guid>
+            <pubDate>Sun, 21 Feb 2016 21:13:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
