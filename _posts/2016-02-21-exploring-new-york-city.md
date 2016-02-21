@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T21:52:03.211Z'
-dateModified: '2016-02-21T21:52:02.087Z'
+datePublished: '2016-02-21T21:53:21.439Z'
+dateModified: '2016-02-21T21:53:20.903Z'
 author: []
 title: Exploring New York City
 sourcePath: _posts/2016-02-21-exploring-new-york-city.md
