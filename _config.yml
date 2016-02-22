@@ -1,3 +1,7 @@
+name: Ellis Reed
+favicon: null
+layout_spectrum: 0.73256
+typography_spectrum: 0.1415771
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.1415771
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7706093
-  brandStrength: 0.390681
-  rhythmicContrast: 0.7473118
   brandColors:
     - '#282E30'
     - '#EFE1B4'
     - '#C6A34B'
     - '#6E5B42'
     - '#F3EFE6'
+  brandStrength: 0.390681
   lightness: 0.2401434
-layout_spectrum: 0.4820789
-name: EllisReed
+  saturation: 0.7706093
+  rhythmicContrast: 0.7473118
+purpose: []
