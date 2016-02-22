@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T21:53:21.439Z'
-dateModified: '2016-02-21T21:53:20.903Z'
+datePublished: '2016-02-22T13:56:46.797Z'
+dateModified: '2016-02-22T13:56:40.071Z'
 author: []
 title: Exploring New York City
 sourcePath: _posts/2016-02-21-exploring-new-york-city.md
@@ -23,4 +23,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51397faf-5769-4f84-bde6-6d6ad183cf78.jpg)
+
 # Exploring New York City
