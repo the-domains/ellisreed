@@ -4,14 +4,14 @@
         <description><![CDATA[Ellis Reed]]></description>
         <link>https://thegrid.ai/ellisreed/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 21:55:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 13:57:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ellisreed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Exploring New York City]]></title>
-            <description><![CDATA[<h1>Exploring New York City</h1>]]></description>
+            <description><![CDATA[<article><h1>Exploring New York City</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51397faf-5769-4f84-bde6-6d6ad183cf78.jpg"></article>]]></description>
             <link>urn:uuid:373ce98d-e8f3-45fc-b530-1d6f2a8052e4</link>
             <guid isPermaLink="false">26a3ab25-a3e9-42f7-836a-2e9a0212fe53</guid>
-            <pubDate>Sun, 21 Feb 2016 21:53:21 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 13:56:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
